@@ -142,5 +142,8 @@
       }
     }
   },
-  "defaultProject": "gradient-able-v7.3.7"
+  "defaultProject": "gradient-able-v7.3.7",
+  "cli": {
+    "analytics": false
+  }
 }

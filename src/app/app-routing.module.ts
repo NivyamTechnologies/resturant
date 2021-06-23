@@ -137,6 +137,10 @@ const routes: Routes = [
         loadChildren : './theme/masters/tableadd/tableadd.module#TableaddModule'
       },
       {
+        path : 'tablebrowser',
+        loadChildren : './theme/browsers/table-browser/table-browser.module#TableBrowserModule'
+      },
+      {
         path : 'schoolbrowser',
         loadChildren : './theme/browsers/school-browser/school-browser.module#SchoolBrowserModule'
       },
